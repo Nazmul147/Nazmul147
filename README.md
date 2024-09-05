@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h4 align="center">I am passionate about programming, particularly web application development, data analysis, and database management. My academic background has provided me with foundational knowledge in these areas, and I am eager to develop further my expertise to excel in the professional sphere.</h4>
+<h4 align="center">I am passionate about data science and data management . My academic background has provided me with foundational knowledge in these areas, and I am eager to develop further my expertise to excel in the professional sphere.</h4>
 
 
 
