@@ -13,11 +13,11 @@
 <img src="https://camo.githubusercontent.com/5e04cf6a7c80bea72ba74dd27f67734eb9e6f2cba3e50f9bd50b77767b144b37/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a2d6e744c33447376632d644a35634c475274537545772e676966" alt="Girl in a jacket" width="950" height="300">
 
 
-- 🌱 I’m currently learning **Software Development, Data analysis, and Web Application Development**
+- 🌱 I’m currently learning **Software Development, Data analysis**
 
-- 💬 Ask me about **Web Application and Database**
+- 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **gayon125@gmail.com or ghoshayon175@gmail.com**
+- 📫 How to reach me **nazmulislamdip@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
